@@ -1,3 +1,7 @@
+# Umbrl  assessment
+
+The repository for my Junior Front End Software Engineer Assessment.
+
 ## Intro
 
 For this project, I chose to utilize Vite as my build tool due to its speed and leanness compared to alternatives such as 'create-react-app'. In addition, I installed TailwindCSS for my styling framework. I really appreciate the freedom that it offers in styling components without having long CSS pages that can slow down navigation in large projects. Tailwind allows to use classes directly in the React Components.
