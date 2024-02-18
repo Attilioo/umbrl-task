@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  font-family: 'Gilroy-Heavy', sans-serif;
+  line-height: 1.5;
+}
+
+.rubik {
+  font-family: 'Rubik', sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  size: 24px;
+  line-height: 28.44px;
+  font-style: normal;
+}
+
+.gilroy-bold {
+  font-family: 'Gilroy-Bold', sans-serif;
+}
+
+.gilroy-light {
+  font-family: 'Gilroy-Light', sans-serif;
+}
