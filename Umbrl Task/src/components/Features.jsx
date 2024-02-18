@@ -14,7 +14,7 @@ export default function Features() {
           </p>
         </section>
         <div className=" w-[90%] mx-auto md:grid md:grid-cols-2 lg:grid-cols-3 md:gap-12 md:space-y-0">
-          <div className="flex items-start">
+          <div className="flex items-start my-4">
             <div className="font-bold flex items-center mx-3 ">
               <svg
                 width="39"
@@ -61,7 +61,7 @@ export default function Features() {
               </p>
             </div>
           </div>
-          <div className="flex items-start">
+          <div className="flex items-start my-4">
             <div className="font-bold flex items-center mx-3">
               <svg
                 width="37"
@@ -94,7 +94,7 @@ export default function Features() {
               </p>
             </div>
           </div>
-          <div className="flex items-start">
+          <div className="flex items-start my-4">
             <div className="font-bold flex items-center mx-3">
               <svg
                 width="38"
@@ -117,7 +117,7 @@ export default function Features() {
               </p>
             </div>
           </div>
-          <div className="flex items-start">
+          <div className="flex items-start my-4">
             <div className="font-bold flex items-center mx-3">
               <svg
                 width="35"
@@ -146,7 +146,7 @@ export default function Features() {
               </p>
             </div>
           </div>
-          <div className="flex items-start">
+          <div className="flex items-start my-4">
             <div className="font-bold flex items-center mx-3">
               <svg
                 width="37"
@@ -183,7 +183,7 @@ export default function Features() {
               </p>
             </div>
           </div>
-          <div className="flex items-start">
+          <div className="flex items-start my-4">
             <div className="font-bold flex items-center mx-3">
               <svg
                 width="34"
