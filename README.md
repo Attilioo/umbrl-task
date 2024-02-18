@@ -1,6 +1,6 @@
 # Umbrl  assessment
 
-The repository for my Junior Front End Software Engineer Assessment.
+The repository for my Junior Front End Engineer Assessment.
 
 ## Intro
 
